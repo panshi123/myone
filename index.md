@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 我的网页
 
 You can use the [editor on GitHub](https://github.com/panshi123/myone/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
